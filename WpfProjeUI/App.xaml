@@ -1,0 +1,9 @@
+﻿<Application x:Class="WpfProjeUI.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:WpfProjeUI"
+             StartupUri="../Views/Product/ProductListView.xaml">
+    <Application.Resources>
+         
+    </Application.Resources>
+</Application>
